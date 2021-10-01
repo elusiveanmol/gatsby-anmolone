@@ -22,3 +22,10 @@
 .nav-link-text {
 	color: black;
 }
+
+.site-title {
+	font-size:  3rem;
+	color:  teal;
+	font-weight:  700;
+	margin:  4rem 0;
+}
