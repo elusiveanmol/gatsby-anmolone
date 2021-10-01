@@ -14,6 +14,7 @@ const BlogPage = ({ data }) => {
 		
 		<ul>
 		{
+		{/* Step 3: Use the data in your component */}
 			data.allFile.nodes.map(node => (
 				<li key={node.name}>
 				{node.name}
